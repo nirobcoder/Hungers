@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+}
+.header-title {
+  width: 539px;
+  margin: 50px 10px 40px 70px;
+  padding: 35px 25px 1px 96px;
+}
+.header-title h1 {
+  font-size: 50px;
+}
+.header-title p {
+  color: dimgray;
+}
+.header-title span {
+  color: orange;
+}
+.btn {
+  position: absolute;
+  margin-top: 10px;
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 15px 25px;
+  font-weight: 700;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px -2px tomato;
+}
+.btn:hover {
+  background-image: linear-gradient(45deg, #ffa07ae6, #ff6347b5);
+}
+.header-img img {
+  width: 500px;
+  margin: 0px 10px 25px;
+  padding: 40px 10px 50px 10px;
+}
+.about {
+  background-image: url(image/cover/7.png);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+.about-img {
+  width: 700px;
+}
+.about-img img {
+  width: 300px;
+  margin: 87px 180px 0 100px;
+  padding: 10px 15px 0px 100px;
+}
+.about-title {
+  width: 539px;
+  margin: 50px 10px 40px 10px;
+  padding: 35px 25px 1px 10px;
+}
+.about-title h2 {
+  font-size: 40px;
+}
+.signature-title {
+  width: 600px;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+}
+.item img {
+  width: 300px;
+  border-radius: 20px;
+  text-align: center;
+}
+.item {
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+  margin-top: 150px;
+  margin-left: 120px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px -2px rgb(48 47 46);
+}
+#item1 {
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+  margin-top: 150px;
+  margin-left: 50px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px -2px rgb(48 47 46);
+}
+#item2 {
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+  margin-top: 150px;
+  margin-left: 50px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px -2px rgb(48 47 46);
+}
+.chef{
+  margin-top: 120px;
+}
