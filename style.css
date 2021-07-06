@@ -190,6 +190,7 @@ footer h2 span {
 }
 .ficones {
   font-size: 25px;
+  color: rgb(255, 255, 255);
   margin-right: 13px;
 }
 .ficones:hover {
