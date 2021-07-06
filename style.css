@@ -57,8 +57,8 @@ body {
 }
 .header-title {
   width: 539px;
-  margin: 0px 10px 40px 70px;
-  padding: 0px 25px 1px 96px;
+  margin: 70px 10px 40px 70px;
+  padding: 20px 25px 1px 96px;
 }
 .header-title h1 {
   font-size: 50px;
@@ -85,8 +85,8 @@ body {
 }
 .header-img img {
   width: 500px;
-  margin: 0px 10px 25px;
-  padding: 0px 10px 50px 10px;
+  margin: 37px 10px 25px;
+  padding: 20px 10px 50px 10px;
 }
 .about {
   background-image: url(image/cover/7.png);
