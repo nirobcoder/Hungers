@@ -132,3 +132,13 @@ body {
     height: 100px;
     margin-left: 150px;
 }
+footer{
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 5px 50px 50px 50px;
+}
+footer h1 span{
+  color: orangered;
+}
