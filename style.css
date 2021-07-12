@@ -55,6 +55,35 @@ body {
 .socialIcones i:hover {
   color: rgb(26, 230, 179);
 }
+
+.manu-container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.manu-items ul li{
+  list-style: none;
+  float: left;
+}
+.manu-items a{
+  text-decoration: none;
+  list-style: none;
+  font-size: 20px;
+  font-weight: 500;
+  color: red;
+  margin-left: 70px;
+}
+.logo img{
+  width: 150px;
+  margin-left: 100px;
+}
+i.fas.fa-user {
+  font-size: 27px;
+  margin-right: 70px;
+  color: #f55252;
+}
+
 .header-title {
   width: 539px;
   margin: 70px 10px 40px 70px;
